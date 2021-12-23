@@ -3,6 +3,7 @@ import React from "react";
 import Welcome from './Welcome';
 
 const App = () => {
+  // added fron git
   return (
     <Welcome startVal={10} />
   )
